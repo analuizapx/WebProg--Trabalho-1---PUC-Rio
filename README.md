@@ -15,7 +15,7 @@
 
 <p> Através da barra do navegador, eu consegui fazer o request pra acessar os arquivos em .jpeg, .gif, .png, .js (em forma de texto) . A página erro.html aparecia quando o nome do arquivo não era encontrato e a página index.html está como default . Testei usar o sleep e consegui abrir as páginas em diferentes abas e diferentes navegadores <p/>
 
-
+![](./print.png)
  
  ## Erro
  
